@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Konstanius
 - 👀 I’m interested in anything related to electronics, mechanics and software
-- 🌱 I’m currently learning advanced physics, mechatronics and software development.
+- 🌱 I’m currently learning advanced physics, mechatronics and software development
 - 📫 Reach me on Discord: Konstanius#3698, or via E-Mail: eukonstanius@gmail.com
